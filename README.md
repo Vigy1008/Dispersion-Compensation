@@ -93,6 +93,10 @@ The main physical components of this layout are:
 
 ![WhatsApp Image 2026-02-06 at 5 39 38 PM](https://github.com/user-attachments/assets/46a04c6e-e1f6-4ff8-a6e3-4083b2c4594c)
 
+## Graph
+ <img width="1919" height="1079" alt="Screenshot 2026-02-04 092100" src="https://github.com/user-attachments/assets/1787b8ca-40b8-4bd5-8c31-6c70c73a8ba6" />
+  <img width="1919" height="1079" alt="Screenshot 2026-02-04 092135" src="https://github.com/user-attachments/assets/5fa09dba-5dce-49bd-81b6-b3902331cb9b" />
+
 
 ---
 
